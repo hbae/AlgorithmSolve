@@ -1,0 +1,2 @@
+# AlgorithmSolve
+DeepThought,Solve,Transcribe
